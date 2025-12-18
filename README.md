@@ -2,6 +2,9 @@
 
 A comprehensive web application for managing the entire RFP (Request for Proposal) lifecycle, from creation through vendor selection, powered by AI for intelligent parsing and recommendations.
 
+## 🎯 App Video 
+https://drive.google.com/file/d/1e0e8HcSokyrLZi8To5G3ifFrzw7JbBhl/view?usp=sharing
+
 ## 🎯 Features
 
 - **AI-Powered RFP Creation**: Convert natural language descriptions into structured RFPs
